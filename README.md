@@ -1,5 +1,5 @@
 # stackoverflow2017
-This repository is for Project 1 of the Undacity Data Science for Scientists nanodegree.
+This repository is for Project 1 of the Udacity Data Science for Scientists nanodegree.
 
 ## Project Aim
 The goal of the project is to ask questions with business or real-world applications, and analyse a publically available dataset to find insights to answer these questions. I decided to analyse the results of the 2017 Stack Overflow Annual Developer Survey for insights to help people answer the question "Is a career in technology right for me?" I decided to do this by searching for relationships between personality and career success in order to answer the following three questions:
