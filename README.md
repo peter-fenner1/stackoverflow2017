@@ -27,3 +27,23 @@ For my analysis I wanted to use questions with a fairly even distribution of res
 - Most project management techniques are useless
 - I enjoy debugging code
 - It's harder to collaborate with remote peers than those on site
+
+## Results
+
+After processing and cleaning the data, the results for the question "How does personality relate to employability?" are as follows:
+
+![relationships between personality metrics and employability](https://github.com/peter-fenner1/stackoverflow2017/blob/main/images/employability.png)
+
+This suggests that there is perhaps a positive correlation with ShipIt and EnjoyDebugging, and a negative correlation with CompetePeers. However, none of the graphs are strictly increasing or decreasing (although CompetePeers comes close), so I don't think we can be confident that any of these factors have a significant effect on employability.
+
+The results for the question "How does personality relate to salary?" are as follows:
+
+![relationships between personality metrics and salary](https://github.com/peter-fenner1/stackoverflow2017/blob/main/images/salary.png)
+
+This shows a pretty clear negative correlation with RightWrongWay and OtherPeoplesCode. The data also suggests, although less strongly, a negative correlation with BoringDetails and a positive correlation with ShipIt.
+
+Finally, the results for the question "How does personality relate to job satisfaction?" are as follows:
+
+![relationships between personality metrics and job_satisfaction](https://github.com/peter-fenner1/stackoverflow2017/blob/main/images/satisfaction.png)
+
+This data shows a pretty clear negative correlation with BoringDetails, OtherPeoplesCode and ProjectManagement, and it also suggests a positive correlation with DiversityImportant and EnjoyDebugging.
