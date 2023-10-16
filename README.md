@@ -47,3 +47,25 @@ Finally, the results for the question "How does personality relate to job satisf
 ![relationships between personality metrics and job_satisfaction](https://github.com/peter-fenner1/stackoverflow2017/blob/main/images/satisfaction.png)
 
 This data shows a pretty clear negative correlation with BoringDetails, OtherPeoplesCode and ProjectManagement, and it also suggests a positive correlation with DiversityImportant and EnjoyDebugging.
+
+## Libraries used
+
+This project uses the libraries:
+
+- NumPy
+- pandas
+- Matplotlib
+- scikit-learn
+- Seaborn
+
+## Files
+
+The project contains the following files:
+
+- images/*  _various images used in this readme and the blog post_
+- README.md  _This readme_
+- blog_post.md  _A blog post describing the results of this analysis to a non-technical audience_
+- project_notebook.ipynb  _A Jupyter notebook containing the code for the analysis and a detailed description of the decisions made_
+- survey_results_public.csv  _The results of the Stackoverflow 2017 Annual Developer Survey, used as data for the analysis_
+- survey_results_schema.csv _Details of the survey questions_
+  
